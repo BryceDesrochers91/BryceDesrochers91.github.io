@@ -12,6 +12,11 @@ header, footer {
     color: blue;
 }
 
-.my-image {
-    box-shadow: 1px 1px;
+/*Ask SPA for help*/
+/*.my-image {
+    box-shadow: 0 0 2px 1px 1px;
+}*/
+
+ul, li {
+    list-style-type: square;
 }
