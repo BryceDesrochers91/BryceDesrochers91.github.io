@@ -20,3 +20,7 @@ header, footer {
 ul, li {
     list-style-type: square;
 }
+
+ul, li:nth-child(odd){
+    background-color: cyan;
+}
