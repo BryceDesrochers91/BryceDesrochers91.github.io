@@ -3,8 +3,11 @@ body {
     font-size: 18px;
 }
 
-header, footer {
-    background-color: cyan;
+footer, header {
+    background-color: yellowgreen;
     
 }
 
+.site-title {
+    color: blue;
+}
