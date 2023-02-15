@@ -34,3 +34,7 @@ ul li:nth-child(odd){
 .link--underline:hover{
     background-color: hotpink;
 }
+
+.link--underline:focus{
+    background-color: yellow;
+}
