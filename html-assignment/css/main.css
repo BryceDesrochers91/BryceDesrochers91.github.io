@@ -13,9 +13,9 @@ header, footer {
 }
 
 /*Ask SPA for help*/
-/*.my-image {
-    box-shadow: 0 0 2px 1px 1px;
-}*/
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
 
 ul, li {
     list-style-type: square;
