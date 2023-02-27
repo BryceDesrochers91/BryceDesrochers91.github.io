@@ -1,8 +1,13 @@
+/* Changes to font to more common fonts on the users device.*/
 body {
     background-color: #aad4cf;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+header h1 {
+    color: white;
+}
 .link--underline {
     text-decoration: none;
-    
+
 }
