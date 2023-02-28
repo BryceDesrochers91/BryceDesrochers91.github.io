@@ -22,7 +22,12 @@ header h1 {
     z-index: 1;
 }*/
 
+section nav {
+    color: azure;
+}
+
 .display nav {
+    
     background-color: rgb(158, 224, 233);
     font-size: xx-large;
     display: inline;
