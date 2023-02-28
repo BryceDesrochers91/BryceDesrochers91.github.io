@@ -23,7 +23,7 @@ header h1 {
 }*/
 
 .display nav {
-    background-color: aquamarine;
+    background-color: rgb(158, 224, 233);
     display: inline;
     padding: 10px;
     height: 40px;
