@@ -12,7 +12,18 @@ header h1 {
 
 }
 
-/*header {
+header img {
+    width: 100%;
+}
+
+header h1 {
+    position: absolute;
+    width: 100%;
+    top: 100px;
+    text-align: center;
+}
+
+/*header  {
     background-color: rgba(0,0,0,.95);
     color: white;
     position: fixed;
