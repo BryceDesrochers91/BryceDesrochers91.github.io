@@ -34,3 +34,8 @@ section nav {
     padding: 10px;
     height: 40px;
 }
+
+div {
+    box-shadow: 0 0 2px 1px black;
+}
+
