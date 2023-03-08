@@ -90,9 +90,17 @@ section nav {
     
     background-color: #aad4cf;
     font-size: xx-large;
-    display: inline;
+     display: inline;
     padding: 10px;
     height: 40px;
+}
+nav ul li {
+    width: 33%;
+
+}
+
+nav ul li a {
+    display: inline-block;
 }
 
 div {
