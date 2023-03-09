@@ -16,9 +16,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
+	margin: 1px;
+	padding: 0px;
+	border: 0px;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -82,6 +82,7 @@ header h1 {
     z-index: 1;
 }*/
 
+
 section nav {
     color: azure;
 }
@@ -98,7 +99,7 @@ nav ul li {
     width: 33%;
     float: left;
     padding: 20px 0;
-    font-size: 35px;
+    font-size: 38px;
 }
 
 nav ul li a {
@@ -112,7 +113,7 @@ div {
 }
 
 article h2 {
-    font-size: 26px;
+    font-size: 36px;
 }
 
 article #my-image-2 {
@@ -142,4 +143,10 @@ footer p {
 
 section h2 {
     font-size: 26px;
+}
+
+
+section ul {
+    margin: 10px 30px;
+    list-style-type: circle;
 }
