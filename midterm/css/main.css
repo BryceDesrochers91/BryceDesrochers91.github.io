@@ -130,8 +130,12 @@ div form h3 {
 }
 
 .button-1 {
+    display: inline;
     padding: 10px 6px;
     background-color: plum;
     color: black;
 }
 
+footer p {
+    text-align: right;
+}
