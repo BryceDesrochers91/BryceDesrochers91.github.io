@@ -92,3 +92,21 @@ nav ul li a:hover {
 	background-color: rgba(0, 0, 0, 0.5);
 	color: white;
 }
+
+h2 {
+	font-size: 50px;
+	font-weight: bold;
+	line-height: 80px;
+}
+
+.welcome-content button {
+	background-color: orange;
+	font-size: 35px;
+	padding: 20px;
+	border: none;
+}
+
+.welcome-content button:hover {
+	background-color: black;
+	color: white;
+}
