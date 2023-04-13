@@ -115,3 +115,10 @@ h2 {
 	background-color: black;
 	color: white;
 }
+
+.about-us {
+	background-color: #ffe6ac;
+	display: flex;
+	flex-direction: column;
+	padding: 20px;
+}
