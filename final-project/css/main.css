@@ -84,13 +84,17 @@ nav ul li a:hover {
 	background-image: url(../images/main-banner.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center;
 	/* height: 600px; */
-	padding: 200px;
+	padding: 200px 0;
 }
 
 .welcome-content {
 	background-color: rgba(0, 0, 0, 0.5);
 	color: white;
+	padding: 95px 25px;
+
+	/* padding: top&bottom left&right */
 }
 
 h2 {
@@ -104,6 +108,7 @@ h2 {
 	font-size: 35px;
 	padding: 20px;
 	border: none;
+	margin-top: 20px;
 }
 
 .welcome-content button:hover {
