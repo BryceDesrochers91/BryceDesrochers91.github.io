@@ -199,6 +199,30 @@ h3 {
 	background-color: orange;
 	color: white;
 }
+
+.web-image {
+	background-color: white;
+}
+
+.web {
+	background-color: #ffe6ac;
+	font-style: bold;
+	color: black;
+}
+
+.web button {
+	background-color: black;
+	font-size: 35px;
+	color: white;
+	padding: 20px;
+	border: none;
+	margin-top: 20px;
+}
+
+.web button:hover {
+	background-color: orange;
+	color: white;
+}
 /* Services */
 
 /* 
