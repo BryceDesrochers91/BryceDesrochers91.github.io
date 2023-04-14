@@ -223,6 +223,44 @@ h3 {
 	background-color: orange;
 	color: white;
 }
+
+.print-image {
+	background-color: white;
+}
+
+.print {
+	background-color: #ffe6ac;
+	font-style: bold;
+	color: black;
+}
+
+.print button {
+	background-color: black;
+	font-size: 35px;
+	color: white;
+	padding: 20px;
+	border: none;
+	margin-top: 20px;
+}
+
+.print button:hover {
+	background-color: orange;
+	color: white;
+}
+
+.vision {
+	background-image: url(../images/vision.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 200 0;
+}
+
+.vision-content {
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+	padding: 95px 25px;
+}
 /* Services */
 
 /* 
