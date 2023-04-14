@@ -73,8 +73,7 @@ nav ul li a:hover {
 		- parent container: background-image, height
 		- transparent section: background-color, opacity, padding
 		- button: padding, background-color, color
-
- */
+*/
 
 .search {
 	color: orange;
@@ -122,3 +121,44 @@ h2 {
 	flex-direction: column;
 	padding: 20px;
 }
+
+.our-services-image {
+	background-color: white;
+}
+
+.our-services {
+	background-color: #ffe6ac;
+	font-style: bold;
+	color: black;
+
+}
+
+.our-services button {
+	background-color: black;
+	font-size: 35px;
+	color: white;
+	padding: 20px;
+	border: none;
+	margin-top: 20px;
+}
+
+.our-services button:hover {
+	background-color: orange;
+	color: white;
+}
+/* Services */
+
+/* 
+1. one parent div 
+2. multiple child divs that contains info for each service
+
+apply grid,
+mobile - 1 column
+desktop - positioning by line or span
+
+*/
+
+/* Our Team */
+/* 
+Grid or Flex
+ */
