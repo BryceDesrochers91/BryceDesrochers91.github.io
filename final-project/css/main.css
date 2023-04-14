@@ -101,6 +101,11 @@ h2 {
 	font-weight: bold;
 	line-height: 80px;
 }
+h3 {
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 70px;
+}
 
 .welcome-content button {
 	background-color: orange;
@@ -146,6 +151,32 @@ h2 {
 	background-color: orange;
 	color: white;
 }
+
+.marketing-image {
+	background-color: white;
+}
+
+.marketing {
+	background-color: #ffe6ac;
+	font-style: bold;
+	color: black;
+}
+
+.marketing button {
+	background-color: black;
+	font-size: 35px;
+	color: white;
+	padding: 20px;
+	border: none;
+	margin-top: 20px;
+}
+
+.marketing button:hover {
+	background-color: orange;
+	color: white;
+}
+
+
 /* Services */
 
 /* 
@@ -155,7 +186,18 @@ h2 {
 apply grid,
 mobile - 1 column
 desktop - positioning by line or span
-
+.wrapper div:nth-child(1) {
+    background-color: coral;
+    grid-area: d1;
+}
+<div class="wrapper">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+    </div>
 */
 
 /* Our Team */
