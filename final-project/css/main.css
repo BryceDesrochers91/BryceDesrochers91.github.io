@@ -176,7 +176,29 @@ h3 {
 	color: white;
 }
 
+.video-image {
+	background-color: white;
+}
 
+.video {
+	background-color: #ffe6ac;
+	font-style: bold;
+	color: black;
+}
+
+.video button {
+	background-color: black;
+	font-size: 35px;
+	color: white;
+	padding: 20px;
+	border: none;
+	margin-top: 20px;
+}
+
+.video button:hover {
+	background-color: orange;
+	color: white;
+}
 /* Services */
 
 /* 
